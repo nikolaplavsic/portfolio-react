@@ -1,0 +1,24 @@
+{
+  "name": "portfolio-react",
+  "version": "1.0.0",
+  "description": "Portfolio website built with react",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikolaplavsic/portfolio-react.git"
+  },
+  "keywords": [
+    "portfolio",
+    "react",
+    "starter"
+  ],
+  "author": "Nikola Plavsic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikolaplavsic/portfolio-react/issues"
+  },
+  "homepage": "https://github.com/nikolaplavsic/portfolio-react#readme"
+}
